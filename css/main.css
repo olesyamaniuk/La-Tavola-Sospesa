@@ -221,6 +221,7 @@ a {
     letter-spacing: 0%;
     color: rgba(0, 72, 29, 1);
     margin-right: 80px;
+    text-decoration: none;
   }
   .e-s-header-button-wrapper {
     display: none;
